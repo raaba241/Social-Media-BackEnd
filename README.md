@@ -18,6 +18,8 @@ Simply `run npm install`
 To use this type `index.js`
 Then use insominia to test endpoints. 
 
+WATCH A VIDEO USE CASE OF THIS HERE >>>  https://drive.google.com/file/d/1rqglbpf8aUG1iF1cCDxNCP9z71GtfNPq/view?usp=drive_link
+
 ## License
 This project is licensed under the MIT License.
 ## Contributing
